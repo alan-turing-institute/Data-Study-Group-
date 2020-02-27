@@ -18,3 +18,14 @@ April 20th - 24th 2020
 Spetemebr 14th - 18th 2020
 
 December 17th - 11th 2020 
+
+
+Key Terms 
+=========
+
+CO = Challenge Owner, the organisation/academic that is proposing the challenege 
+
+PI = Principal Investigator, the academic matched with the project to guide the scientific elements of the challenge 
+
+Participant= A Data Study Group attendee who will attend the week and work on one of the challenges
+

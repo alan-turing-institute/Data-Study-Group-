@@ -1,3 +1,5 @@
+Important Notice - This repo should be cloned for individual projects. However, we welcome your suggestions to improve this guide. Please submit pull requests as per usual.
+
 The Data Study Groups (DSG)
 =====================
 

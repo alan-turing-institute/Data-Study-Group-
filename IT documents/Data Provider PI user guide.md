@@ -180,3 +180,39 @@ Now you can log into your account. During this process, you will need to provide
 The link above should take you to this landing page. Welcome to the Data Assessment app. Press the button to log in to the application.
 
 ![](Web%20app%20instructions%20images/web%20app%201.png)
+
+At the login prompt enter username@turingsafehaven.ac.uk and confirm/proceed. (Remember that your username will be in the format firstname.lastname).
+
+![](Web%20app%20instructions%20images/web%20app%203.png)
+
+The first time you log in, you'll need to reset your password - click “Forgotten my password”. Complete the requested information (a captcha and the phone number you provided on registration). Make sure you add your number as +44 7XXX, rather than 0 7XXX.ben
+
+![](Web%20app%20instructions%20images/web%20app%204.png)
+
+![](Web%20app%20instructions%20images/web%20app%205.png)
+
+Once you've finished resetting your password, you'll be taken to the front page (if this doesn't happen, reload the web-app on a new incognito browser, and enter in your username and new password).
+
+![](Web%20app%20instructions%20images/web%20app%206.png)
+
+From the front page, you'll be able to see all of the projects to which you've been assigned a role. Click on the project you want to classify data for to see the details.
+
+![](Web%20app%20instructions%20images/web%20app%207.png)
+
+On the project page, you can see the different datasets to be used throughout the project, the role to which you've been assigned. You can see that the different datasets are each clustered within work packages.
+
+## Classifying Work Packages 
+
+Now that you're all set up on the web-app, you can begin classifying the work package to be used over the project, containing the different datasets. Click on the work package you'd like to classify to see its details. 
+
+![](Web%20app%20instructions%20images/web%20app%208.png)
+
+The web-app will now guide you through a series of 'yes or no' questions to classify the work package. After each choice, you can see the question it will bring you to, so you don't accidentally get onto the wrong track. Additional guidance on how to understand and answer each question is given below. If you've made a mistake, or want to cancel your classification at any time - you can click on the grey button and start again later. Work your way through the questions for this work package, answering yes or no for each.
+
+![](Web%20app%20instructions%20images/web%20app%210.png)
+
+Before you classify the data as a particular tier of sensitivity, the web-app will warn you of the classification you're about to make. You can click previous question to go back, or cancel classification to restart from scratch.
+
+![](Web%20app%20instructions%20images/web%20app%211.png)
+
+Congratulations, you've classified the work package! This page gives you an overview of the choices you made to arrive at this classification. If you're not happy with any of these choices, you can click on the question to return to this step, or delete the classification to start again. The classification of the dataset will remain pending, until all relevant role representatives have completed their classification, and a consensus has been reached.

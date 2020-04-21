@@ -221,3 +221,5 @@ Before you classify the data as a particular tier of sensitivity, the web-app wi
 Congratulations, you've classified the work package! This page gives you an overview of the choices you made to arrive at this classification. If you're not happy with any of these choices, you can click on the question to return to this step, or delete the classification to start again. The classification of the dataset will remain pending, until all relevant role representatives have completed their classification, and a consensus has been reached.
 
 ## :microscope: How to access the Turing Safe Haven 
+
+Before getting started in the safe haven- your account must have been created by your Turing Project Manager and they should have requested your mobile phone number to do so. You must have this device to hand for multi factor authentication (MFA) otherwise you will not be able to access the system. 

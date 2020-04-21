@@ -9,7 +9,7 @@ Data Provider & PI Safe Haven User Guide
 * [:microscope: **Safe Haven Environemnt Tiers**](#microscope-safe-haven-enviroenment-tiers)
 * [:microscope: **Sensitivity Classification Process**](#microscope-sensitivity-classification-process)
 * [:microscope: **How to use the Data Assessmnet App**](#microscope-How-to-use-the-data-assessment-app)
-* [:microscope: **How to Access the Turing Safe Haven**](#microscope-How-to-access-the-turing-safe-haven)
+* [:microscope: **How to access the Turing Safe Haven**](#microscope-How-to-access-the-turing-safe-haven)
 
 ## :beginner: Introduction: The Turing Safe Haven
 

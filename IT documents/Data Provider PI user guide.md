@@ -177,4 +177,6 @@ Your username will be in the format firstname.lastname. At times, you will need 
 
 Now you can log into your account. During this process, you will need to provide a phone number or an email for account recovery.
 
+The link above should take you to this landing page
 
+![](Web%20app%20instructions%20images/web%20app%201.png)

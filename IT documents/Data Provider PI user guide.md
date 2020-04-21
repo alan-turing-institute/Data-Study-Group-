@@ -209,10 +209,10 @@ Now that you're all set up on the web-app, you can begin classifying the work pa
 
 The web-app will now guide you through a series of 'yes or no' questions to classify the work package. After each choice, you can see the question it will bring you to, so you don't accidentally get onto the wrong track. Additional guidance on how to understand and answer each question is given below. If you've made a mistake, or want to cancel your classification at any time - you can click on the grey button and start again later. Work your way through the questions for this work package, answering yes or no for each.
 
-![](Web%20app%20instructions%20images/web%20app%210.png)
+![](Web%20app%20instructions%20images/web%20app%2010.png)
 
 Before you classify the data as a particular tier of sensitivity, the web-app will warn you of the classification you're about to make. You can click previous question to go back, or cancel classification to restart from scratch.
 
-![](Web%20app%20instructions%20images/web%20app%211.png)
+![](Web%20app%20instructions%20images/web%20app%2011.png)
 
 Congratulations, you've classified the work package! This page gives you an overview of the choices you made to arrive at this classification. If you're not happy with any of these choices, you can click on the question to return to this step, or delete the classification to start again. The classification of the dataset will remain pending, until all relevant role representatives have completed their classification, and a consensus has been reached.

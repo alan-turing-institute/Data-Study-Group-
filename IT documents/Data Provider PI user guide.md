@@ -223,3 +223,5 @@ Congratulations, you've classified the work package! This page gives you an over
 ## :microscope: How to access the Turing Safe Haven 
 
 Before getting started in the safe haven- your account must have been created by your Turing Project Manager and they should have requested your mobile phone number to do so. You must have this device to hand for multi factor authentication (MFA) otherwise you will not be able to access the system. 
+
+Before you can access the SRE you will also need to set up your account yourself 

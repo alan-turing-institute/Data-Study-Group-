@@ -9,6 +9,7 @@ Data Provider & PI Safe Haven User Guide
 * [:microscope: **Safe Haven Environemnt Tiers**](#microscope-safe-haven-enviroenment-tiers)
 * [:microscope: **Sensitivity Classification Process**](#microscope-sensitivity-classification-process)
 * [:microscope: **How to use the Data Assessmnet App**](#microscope-How-to-use-the-data-assessment-app)
+* [:microscope: **How to Access the Turing Safe Haven**](#microscope-How-to-access-the-turing-safe-haven)
 
 ## :beginner: Introduction: The Turing Safe Haven
 
@@ -169,6 +170,8 @@ Before getting started on the assessment web-app - you should have already had a
 
 Once your project manager has given you the go ahead, you're ready to get started!
 
+Please note that if you are not the data representative, you will need to access the data first/in conjunction with the app so that you can answer the questions about the data. In most cases the data will be stored in the safe haven - more on accessing the safe haven later in this guide. 
+
 ## Accessing the App
 
 To access the web-app, open a new incognito window on your browser, and go to the following address: https://turingsafehaven.azurewebsites.net
@@ -216,3 +219,5 @@ Before you classify the data as a particular tier of sensitivity, the web-app wi
 ![](Web%20app%20instructions%20images/web%20app%2011.png)
 
 Congratulations, you've classified the work package! This page gives you an overview of the choices you made to arrive at this classification. If you're not happy with any of these choices, you can click on the question to return to this step, or delete the classification to start again. The classification of the dataset will remain pending, until all relevant role representatives have completed their classification, and a consensus has been reached.
+
+## :microscope: How to access the Turing Safe Haven 

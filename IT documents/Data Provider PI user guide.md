@@ -230,7 +230,7 @@ To access the safe haven you will need...
 
 * Your user name - this will most likely be firstname.lastname@turingsafehaven.ac.uk contact your project manager if in doubt. 
 * The domain name and URL for the secure reserach environemnt you are trying to access. Your project manager will let you know what this it. 
-* Your mobile device for MFA with the **Microsoft Authenticator app installed
+* Your mobile device for MFA 
 * To set up your safe haven pass word. 
 * To set up your multi-factor authentication (MFA).
 

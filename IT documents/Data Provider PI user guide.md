@@ -165,7 +165,7 @@ The project cycle tends to require that work packages are assessed at the follow
 
 Before getting started on the assessment web-app - you should have already had a conversation with your Turing project manager. They should have requested the following information from you: 
 
-* A mobile phone number to set up an account for you on the app and for the safe haven. (This must be the number of the device you will have to hand for the duration of the project for MFA)
+* A mobile phone number to set up an account for you on the assessment app. (This must be the number of the device you will have to hand for the duration of the project for MFA)
 * A completed data sets form (if you are a data provider) so that descriptions of any datasets can be added to the app differenciating between multiple data sets. 
 
 Once your project manager has given you the go ahead, you're ready to get started!
@@ -220,8 +220,87 @@ Before you classify the data as a particular tier of sensitivity, the web-app wi
 
 Congratulations, you've classified the work package! This page gives you an overview of the choices you made to arrive at this classification. If you're not happy with any of these choices, you can click on the question to return to this step, or delete the classification to start again. The classification of the dataset will remain pending, until all relevant role representatives have completed their classification, and a consensus has been reached.
 
-## :microscope: How to access the Turing Safe Haven 
+## :microscope: How to access the Turing Safe Haven
 
-Before getting started in the safe haven- your account must have been created by your Turing Project Manager and they should have requested your mobile phone number to do so. You must have this device to hand for multi factor authentication (MFA) otherwise you will not be able to access the system. 
+### Setting up for the first time
 
-Before you can access the SRE you will also need to set up your account yourself 
+Before getting started in the safe haven- your account must be created by your Turing Project Manager and they should have requested your mobile phone number to do so. You must have this mobile to hand for multi factor authentication (MFA) otherwise you will not be able to access the system. Please note that your Data Assessment App account and safe haven account are seperate and may have different log in details. 
+
+To access the safe haven you will need...
+
+* Your user name - this will most likely be firstname.lastname@turingsafehaven.ac.uk contact your project manager if in doubt. 
+* The domain name and URL for the secure reserach environemnt you are trying to access. Your project manager will let you know what this it. 
+* Your mobile device for MFA with the **Microsoft Authenticator app installed
+* To set up your safe haven pass word. 
+* To set up your multi-factor authentication (MFA).
+
+### :closed_lock_with_key: Setting a password
+
+The first step is to reset your password.
+
+1. Open a private/incognito browser session on your computer.
+
+    > :pencil2: One of the most common problems that users have in connecting to the SRE is automatic completion of usernames and passwords from other accounts on their computer.
+    > This can be quite confusing, particularly for anyone who logs into Microsoft services for work or personal use.
+
+    > :warning: Look out for usernames or passwords that are automatically completed, and make sure that you're using the correct details needed to access the SRE.
+ 
+2. Copy and paste the environment URL into the browser. 
+3. At the login prompt enter your user name and confirm/proceed. 
+4. There will then be a password prompt. The first time you log in you need to click "Forgotten my password".
+
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_1.png)
+
+5. Fill out the requested CAPTCHA (your username should be pre-filled).
+
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_2.png)
+
+6. Confirm your phone number.
+
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_3.png)
+
+7. Select a password.
+
+   > :point_right: Your password must comply with the following requirements:
+   > * alphanumeric
+   > * minimum 12 characters
+   > * at least one each of
+   >   * :capital_abcd: uppercase character
+   >   * :abcd: lowercase character
+   >   * :1234: number
+
+NB: Do not use special characters or symbols in your password. The virtual keyboard inside the SRE may not be the same as your physical keyboard and this can make it difficult to type some symbols.
+
+8. Enter your password into the Enter new password and Confirm new password fields.
+
+Then continue to the next step.
+
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_5.png)
+
+9. Log into your account when prompted and at this point you will be asked for additional security verification.
+
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/more_information_required%206.png)
+
+### :door: Set up multi-factor authentication
+
+The next step in setting up your account is to authenticate your account from your phone.
+This additional security verification is to make it harder for people to impersonate you and connect to the environment without permission.
+
+1. Choose how you would like to be contacted for the additional security verification.
+
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/additional_security_verification%207.png)
+
+If you select phone verification, go to step 2.
+If you select app verification, go to step 3.
+
+2. If you choose to set up the authentication by phone call you will receive a call straight away.
+
+ ![](IT%20documents/Web%20app%20instructions%20images/SH%20images/setup_mfa_phone_%208.png)
+ 
+  > :pencil2: Note that some people get a call that says, *press the pound key* and others receive *press the hash key* – both mean hit the `#` button.
+  
+![](IT%20documents/Web%20app%20instructions%20images/SH%20images/setup_mfa_phone_9.png)
+
+When you click close the page will switch to your dashboard.
+
+3.

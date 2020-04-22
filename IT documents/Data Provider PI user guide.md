@@ -250,15 +250,15 @@ The first step is to reset your password.
 3. At the login prompt enter your user name and confirm/proceed. 
 4. There will then be a password prompt. The first time you log in you need to click "Forgotten my password".
 
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_1.png)
+![](Web%20app%20instructions%20images/SH%20images/resetpassword_1.png)
 
 5. Fill out the requested CAPTCHA (your username should be pre-filled).
 
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_2.png)
+![](Web%20app%20instructions%20images/SH%20images/resetpassword_2.png)
 
 6. Confirm your phone number.
 
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_3.png)
+![](Web%20app%20instructions%20images/SH%20images/resetpassword_3.png)
 
 7. Select a password.
 
@@ -276,11 +276,11 @@ NB: Do not use special characters or symbols in your password. The virtual keybo
 
 Then continue to the next step.
 
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/resetpassword_5.png)
+![](Web%20app%20instructions%20images/SH%20images/resetpassword_5.png)
 
 9. Log into your account when prompted and at this point you will be asked for additional security verification.
 
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/more_information_required%206.png)
+![](Web%20app%20instructions%20images/SH%20images/more_information_required%206.png)
 
 ### :door: Set up multi-factor authentication
 

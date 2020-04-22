@@ -304,4 +304,49 @@ If you select app verification, go to step 3.
 
 When you click close the page will switch to your dashboard.
 
-3.
+3. :iphone: **App option**:
+
+   Select the `Receive notifications for verification` radio button.
+
+   Click `Set up`.
+
+   Download the Microsoft Authenticator app via one of these links:
+     - :apple: iOS: `https://bit.ly/iosauthenticator`
+     - :bust_in_silhouette: Android: `https://bit.ly/androidauthenticator`
+     - :checkered_flag: Windows mobile: `https://bit.ly/windowsauthenticator`
+
+   > :warning: You must give permission for the authenticator app to send you notifications for the app to work as an MFA method.
+
+   Open the Microsoft Authenticator app on your phone:
+
+   - Select `Add an account`
+   - Select `Work or School account`
+   - Scan the QR code on the screen
+
+![](Web%20app%20instructions%20images/SH%20images/setup_mfa_app_10.png)
+
+Click Next to start verification
+
+![](Web%20app%20instructions%20images/SH%20images/setup_mfa_app_11.png)
+
+Click Next again to test the app, you will get a verification on your app.
+
+![](Web%20app%20instructions%20images/SH%20images/setup_mfa_app_12.png)
+
+4. Check that your MFA is completed.
+
+    > :warning: It is confusing that the "save" button is not available to click, but if your phone or app appears on this screen you **are** set up for MFA.
+
+![](Web%20app%20instructions%20images/SH%20images/setup_mfa_app_13.png)
+
+Close the browser once MFA is confirmed.
+
+#### Troubleshooting MFA
+
+Sometimes setting up MFA can be problematic.
+You may find the following tips helpful:
+
+- :inbox_tray: Make sure you allow notifications on your authenticator app.
+- :sleeping: Check you don't have *Do not Disturb* mode on.
+- :zap: You have to be SUPER FAST at acknowledging the notification on your app, since the access codes update every 30 seconds.
+- :confused: Sometimes just going through the steps again solves the problem

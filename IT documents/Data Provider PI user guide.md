@@ -289,18 +289,18 @@ This additional security verification is to make it harder for people to imperso
 
 1. Choose how you would like to be contacted for the additional security verification.
 
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/additional_security_verification%207.png)
+![](Web%20app%20instructions%20images/SH%20images/additional_security_verification%207.png)
 
 If you select phone verification, go to step 2.
 If you select app verification, go to step 3.
 
 2. If you choose to set up the authentication by phone call you will receive a call straight away.
 
- ![](IT%20documents/Web%20app%20instructions%20images/SH%20images/setup_mfa_phone_%208.png)
+ ![](Web%20app%20instructions%20images/SH%20images/setup_mfa_phone_%208.png)
  
   > :pencil2: Note that some people get a call that says, *press the pound key* and others receive *press the hash key* – both mean hit the `#` button.
   
-![](IT%20documents/Web%20app%20instructions%20images/SH%20images/setup_mfa_phone_9.png)
+![](Web%20app%20instructions%20images/SH%20images/setup_mfa_phone_9.png)
 
 When you click close the page will switch to your dashboard.
 

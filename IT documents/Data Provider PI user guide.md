@@ -10,6 +10,7 @@ Data Provider & PI Safe Haven User Guide
 * [:microscope: **Sensitivity Classification Process**](#microscope-sensitivity-classification-process)
 * [:microscope: **How to use the Data Assessmnet App**](#microscope-How-to-use-the-data-assessment-app)
 * [:microscope: **How to access the Turing Safe Haven**](#microscope-How-to-access-the-turing-safe-haven)
+- [:mag_right: Setting up for the first time](#mag_setting-up-for-the-first time)
 
 ## :beginner: Introduction: The Turing Safe Haven
 
@@ -222,7 +223,7 @@ Congratulations, you've classified the work package! This page gives you an over
 
 ## :microscope: How to access the Turing Safe Haven
 
-### Setting up for the first time
+### :mag_right: Setting up for the first time
 
 Before getting started in the safe haven- your account must be created by your Turing Project Manager and they should have requested your mobile phone number to do so. You must have this mobile to hand for multi factor authentication (MFA) otherwise you will not be able to access the system. Please note that your Data Assessment App account and safe haven account are seperate and may have different log in details. 
 

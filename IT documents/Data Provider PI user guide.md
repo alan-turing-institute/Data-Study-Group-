@@ -353,3 +353,51 @@ You may find the following tips helpful:
 - :confused: Sometimes just going through the steps again solves the problem
 
 ## :microscope: How to transfer your data to a Turing Safe Haven 
+
+This section is only relevant for data providers, if you are a PI you will not be required to transfer data into the safe haven, please ignore this section. 
+
+There are 2 methods of transferring your data into the safe haven:
+
+* Microsoft Azure Storage Explorer
+* Physical
+
+Under no circumstance should sensitive data be sent via email, including encrypted.
+
+## Microsoft Azure Storage Explorer 
+
+The Safe Haven is built upon the Microsoft Azure platform. The most convenient way of transferring data from your organisation safely is to use the Azure Storage Explorer. You do not require log in credentials to upload data via the Azure Storage Explorer. Instead we will provide a temporary secure access link to allow you to upload data.
+
+Before we can begin…
+
+* You will need to confirm that you are able to receive a secure email. We use the Egress secure email service, which is free to setup for receiving secure emails.
+
+* You will need to send us the public IP address (or range of IP addresses) that are used by the people in your organisation with permission to upload the data. The data ingress volumes are by default not accessible outside of the Turing, and we will provide temporary access to the upload volume from your IP addresses during the upload period. Actually uploading data will from these IP addresses will also require the person uploading the data to have access to the temporary secure access link we provide.
+
+When we receive the IP address, we will send the person responsible for the data transfer a temporary secure access link via secure email. This "write-only" access link has write, list and delete privileges, which will allow you to upload files, verify they have been successfully uploaded and remove or overwrite uploaded files if you need to amend the uploaded data. It will not allow you to download the contents of the uploaded files. This provides an added layer of protection in case the upload link is inadvertantly
+
+(Whilst the connection between your computers and our repository is one way – you can only send data, not retrieve it – if a malicious actor got hold of the link, they could poison your data)
+
+### Connecting to Azure Storage Explorer 
+
+1. Open Azure Storage explorer.
+
+2. Then on the left hand side click on the socket image.
+
+![](Web%20app%20instructions%20images/SH%20images/Loading%20data%20into%20the%20Turing%20SafeHaven%20v1.jpg) 
+
+3. This will open up a prompt box asking how you want to connect. Please select “Use a shared access signature URI” click next and enter the address from the secure email.
+(eg: https://shmdatastorage.blob.core.windows.net/YOURDATA.........)
+
+![](Web%20app%20instructions%20images/SH%20images/Loading%20data%20into%20the%20Turing%20SafeHaven%20v2.jpg)
+
+4. Then click connect.
+
+5. You should now have access to the storage blob and be able to upload the data.
+
+### Common Issues 
+
+You may receive an error:
+
+*"this request is not authorized to perform this operation" _
+
+This means that the IP address you have given us is not correct and is therefore being blocked. You can open a browser and type “what is my IP” to confirm if the IP address you sent corresponds to what your externally facing IP address actually is, or contact your IT team.

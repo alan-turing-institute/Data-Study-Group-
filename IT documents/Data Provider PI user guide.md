@@ -11,6 +11,7 @@ Data Provider & PI Safe Haven User Guide
 * [:microscope: **How to use the Data Assessmnet App**](#microscope-How-to-use-the-data-assessment-app)
 * [:microscope: **How to access the Turing Safe Haven**](#microscope-How-to-access-the-turing-safe-haven)
     - [Setting up for the first time](#setting-up-for-the-first-time)
+* [:microscope: **How to transfer your data to a Turing Safe Haven**](#microscope-How-to-transfer-your-data-to-a-turing-safe-haven)
 
 ## :beginner: Introduction: The Turing Safe Haven
 
@@ -350,3 +351,5 @@ You may find the following tips helpful:
 - :sleeping: Check you don't have *Do not Disturb* mode on.
 - :zap: You have to be SUPER FAST at acknowledging the notification on your app, since the access codes update every 30 seconds.
 - :confused: Sometimes just going through the steps again solves the problem
+
+## :microscope: How to transfer your data to a Turing Safe Haven 

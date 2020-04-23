@@ -401,3 +401,9 @@ You may receive an error:
 *"this request is not authorized to perform this operation" _
 
 This means that the IP address you have given us is not correct and is therefore being blocked. You can open a browser and type “what is my IP” to confirm if the IP address you sent corresponds to what your externally facing IP address actually is, or contact your IT team.
+
+## Physically 
+
+You can bring your data to us on a physical device.
+
+Please let us know when you will come to the Turing to deliver the data.

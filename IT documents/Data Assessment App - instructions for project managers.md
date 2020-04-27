@@ -3,6 +3,7 @@
 ## :mailbox_with_mail: Table of contents
 
 [Introduction to the Data Assessment App](#Introduction-to-the-data-sensitivity-app) 
+
 [Background on the safe haven](#background-on-the-safe-haven)
 
 ## Introduction to the Data Assessment App 

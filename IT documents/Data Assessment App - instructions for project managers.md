@@ -18,6 +18,8 @@ The data sensitivity app is used to record a projects data sensitivty assessment
 
 The web app and the safe haven are completely seperate, the web app generates what tier the project should be but is not connected to the safe haven or project data - its only purpose is to digitally logs assessmnets. Any generated tiers must be communicated to REG/IT so that they can match the environemnt used for the project to its sensitivity tier. 
 
+Data providers, PIs and in cases a referee must all log into the web app seperately to record their assessmnet of the projetc. When all assessmnets are completed and in agreement - a tier is officially assighned to the project. 
+
 As a project manager, you must set up new users, projects and work packages within the Data Assessment App so that PIs and data providers can simply log in and see what they have been assighned to do. 
 
 ## Background on the safe haven 
@@ -78,6 +80,8 @@ in the form username@turingsafehaven.ac.uk (so firstname.lastname@turingsafehave
 When you first log in you may need to provide a phone number or an email for account recovery.
 
 Once your permissions have been confirmed and account created you can access the web-app, open a new incognito window on your browser, and go to the following address: https://turingsafehaven.azurewebsites.net - Welcome to the Data Assessmnet App. 
+
+## How to set up projects
 
 
 

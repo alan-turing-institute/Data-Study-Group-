@@ -14,7 +14,7 @@
 
 ## Introduction to the Data Assessment App 
 
-The data sensitivity app is used to record data sensitivty assessments and outcomes in order for a project sensitivity tier to be assighned. 
+The data sensitivity app is used to record a projects data sensitivty assessments to understand what safe haven sensitivity tier should be used for the project. 
 
 The web app and the safe haven are completely seperate, the web app generates what tier the project should be but is not connected to the safe haven or project data - its only purpose is to digitally logs assessmnets. Any generated tiers must be communicated to REG/IT so that they can match the environemnt used for the project to its sensitivity tier. 
 

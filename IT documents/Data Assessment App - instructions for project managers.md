@@ -10,6 +10,8 @@
 
 [How to access the Data Assessment App](#how-to-access-the-data-assessmnet-app) 
 
+[How to set up projects](#how-to-set-up-projects) 
+
 ## Introduction to the Data Assessment App 
 
 The data sensitivity app is used to record data sensitivty assessments and outcomes in order for a project sensitivity tier to be assighned. 

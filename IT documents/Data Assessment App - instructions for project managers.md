@@ -70,7 +70,10 @@ This is how the Data Assessmnet App is used for ingress/egress..
 
 As a project manager - it is your job to prepare the Data Assessmnet app for the project assessmnets. 
 
-Before you can set up users/projects you must contact the Data Assessment App admin and ask to be have an account created with project manager permissions emabled. 
+Before you can set up users/projects you must contact the Data Assessment App admin and ask to be have an account created with project manager permissions emabled. Your username will most likely be in the format firstname.lastname. At times, you will need to enter it
+in the form username@turingsafehaven.ac.uk (so firstname.lastname@turingsafehaven.ac.uk).
+
+When you first log in you may need to provide a phone number or an email for account recovery.
 
 Once your permissions have been confirmed and account created you can access the web-app, open a new incognito window on your browser, and go to the following address: https://turingsafehaven.azurewebsites.net - Welcome to the Data Assessmnet App. 
 

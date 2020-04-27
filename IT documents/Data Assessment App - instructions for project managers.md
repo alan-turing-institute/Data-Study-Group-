@@ -83,5 +83,11 @@ Once your permissions have been confirmed and account created you can access the
 
 ## How to set up projects
 
+To set up a project ready for assessmnet you must set up... 
+
+* New user accounts for anyone who has not used the data assessment app. 
+* The new project, complete with data set information.  
+* Workpackages for each assessment.
+
 
 

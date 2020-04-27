@@ -6,6 +6,8 @@
 
 [Background on the safe haven](#background-on-the-safe-haven)
 
+[When to use the Data Assessmnet App](#when-to-use-the-data-assessment-app) 
+
 ## Introduction to the Data Assessment App 
 
 The data sensitivity app is used to record data sensitivty assessments and outcomes in order for a project sensitivity tier to be assighned. 
@@ -33,3 +35,12 @@ For a safe haven tier to be assighned, the projects data provider and PI must an
 | Tier 2 | Commercially sensitive data & strongly pseudonymised personal data | Access from any device, copy & paste function disabled, internet disabled | 
 | Tier 3 | Personal data with weak or no pseudonymisation,  more sensitive commercial or government data | Access from know spaces and manged devices only, internet disabled, copy & paste function disbaled, white listed packages only |
 | Tier 4 | Very sensitive personal, commercial or government data | Access only from known dedicated secure rooms and devices, internet disabled, copy & paste function disabeled, stricter white listed packages |
+
+## When to use the data assessmnet app 
+
+Anytime that a project needs a safe haven, the Data Senstitivity App will be required so the project can be assessed to find out what tier safe haven should be used. 
+
+In most cases, at the very minium, the project/data should be assessed when it goes in to a safe haven (ingress) and before it is removed (egress). 
+
+These different assessmnet stages of a project are broken down into 'work packages' in the web app. For example for ingress a work package might be called 'project data ingress assessmnet' and for egress it could be 'project outputs egress'. There might be cases when a certain bit of information needs to be removed from the safe haven and not others, so you could taylor each workpackage to the need so that not everything has to be reassed for expample you could egress a single document from the safe haven 'Egress of report docuemnt'. 
+

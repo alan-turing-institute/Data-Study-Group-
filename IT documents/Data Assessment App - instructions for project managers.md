@@ -44,3 +44,24 @@ In most cases, at the very minium, the project/data should be assessed when it g
 
 These different assessmnet stages of a project are broken down into 'work packages' in the web app. For example for ingress a work package might be called 'project data ingress assessmnet' and for egress it could be 'project outputs egress'. There might be cases when a certain bit of information needs to be removed from the safe haven and not others, so you could taylor each workpackage to the need so that not everything has to be reassed for expample you could egress a single document from the safe haven 'Egress of report docuemnt'. 
 
+This is how the Data Assessmnet App is used for ingress/egress.. 
+
+### Classification process for ingress 
+--------------------------
+
+* The Data set provider prepares the data and conducts the assesmnet in the Data Assessment App. 
+* The Data provider transfers the data into a temporary Turing safe haven environment. 
+* The Principal Investigator accesses the data and conducts the assesmnet in the Data Senstitivity App. 
+* If the Tier outcome is 2 or above, a referee then accesses the data and conducts the assesment in the Data Sensititvity App.
+* If all assessments return the same tier - the tier is assighned and the data is moved into a corresponding environemnt.
+
+### Classification process for egress
+-------------------------------------
+
+* The Data Set provider reviews the contents of the environemnt (which should now contain additional files/derviced data as a result of wokr on the project) and conducts the assessment in the Data Assessment App.
+* The Principal Investigator reviews the contents of the environment and conducts the assessment in the web app 
+* If the project wastier 2 or above a refree must also conduct the assessment in the web app. 
+* If the tier is 1 or 0 the contents can be removed. 
+* If the tier is 2 or above, all parties must agree what can and cannot be removed - if anything. 
+
+

@@ -8,6 +8,8 @@
 
 [When to use the Data Assessmnet App](#when-to-use-the-data-assessment-app) 
 
+[How to access the Data Assessment App](#how-to-access-the-data-assessmnet-app) 
+
 ## Introduction to the Data Assessment App 
 
 The data sensitivity app is used to record data sensitivty assessments and outcomes in order for a project sensitivity tier to be assighned. 
@@ -63,5 +65,14 @@ This is how the Data Assessmnet App is used for ingress/egress..
 * If the project wastier 2 or above a refree must also conduct the assessment in the web app. 
 * If the tier is 1 or 0 the contents can be removed. 
 * If the tier is 2 or above, all parties must agree what can and cannot be removed - if anything. 
+
+## How to access the Data Assessmnet App
+
+As a project manager - it is your job to prepare the Data Assessmnet app for the project assessmnets. 
+
+Before you can set up users/projects you must contact the Data Assessment App admin and ask to be have an account created with project manager permissions emabled. 
+
+Once your permissions have been confirmed and account created you can access the web-app, open a new incognito window on your browser, and go to the following address: https://turingsafehaven.azurewebsites.net - Welcome to the Data Assessmnet App. 
+
 
 

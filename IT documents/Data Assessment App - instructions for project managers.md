@@ -150,9 +150,9 @@ Once you have clicked save, your project will appear in the main project list of
 
 ### Ading project participants 
 
-You'll notice you have no participants, work packages or data assosiated with the project. First step is to add your partcipants. Go back to the add user tab, your project will now appear from the drop down list. 
+You'll notice you have no participants, work packages or data assosiated with the project. You can now add the new users to the Data Assessmnet App. Go back to the add user tab, your project will now appear from the drop down list. 
 
-1[](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20user%20with%20project.PNG) 
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20user%20with%20project.PNG) 
 
 There are a number of different roles that can be assighed to the new user...
 

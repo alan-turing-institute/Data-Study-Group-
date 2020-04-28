@@ -142,4 +142,32 @@ In the web app click on project, then 'create project'.
 
 You must enter the project title and a brief summary. 
 
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/project%20info.PNG) 
+
+Once you have clicked save, your project will appear in the main project list off the landing page. Locate your project and click on it - you should arrive at this page... 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20Project%20set%20up.PNG)
+
+You'll notice you have no participants, work packages or data assosiated with the project. First step is to add your partcipants. Go back to the add user tab, your project will now appear from the drop down list. 
+
+1[](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20user%20with%20project.PNG) 
+
+There are a number of different roles that can be assighed to the new user...
+
+* Data Provider Representative = the member of the organisation providing the data who will be conducting the assessmnet on behalf of the organisation 
+
+* Investigator = The Principal Inverstigator of the project 
+
+* Researcher = Additional reserachers who are assosiated with the project
+
+* Project Manager = You 
+
+* Referee = If the tier is 2 or above, a refree will be needed to assess the project, this can be any trusted Turing reseracher with sound knoledge of the tier/ safe haven model. 
+
+
+
+
+
+
+
 

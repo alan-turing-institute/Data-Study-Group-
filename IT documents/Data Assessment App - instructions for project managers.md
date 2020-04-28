@@ -121,7 +121,7 @@ You will need to enter their mobile number here and it may ask what envrionmnet 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/user%20name.PNG)
 
-4. Once the account has been created and you have noted the new user name. You can add the new user in the Data Assessment App. Click create user, then create single user and you will be taken to this page. 
+4. Once the account has been created and you have noted the new user name. You can add the new user in the Data Assessment App. Click create user, then create single user and you will be taken to this page. In order for a user to be created they must be assighned to a project with a role so you will have to create the project FIRST, then come back and add the users. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/new%20web%20app%20user_LI.jpg)
 

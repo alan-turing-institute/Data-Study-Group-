@@ -107,12 +107,21 @@ If you are uncertain if soemone already has an account or not you can check by l
 If they do not have an account, you will have to create one following these steps. 
 
 1. For log in details to be generated for the Data Assessment App - IT will need to create a safe haven user account for the new user. 
-You can request this on Turing complete. Under/ IT services/ Secure Reserach Environemnts/ Add user. 
+You can request this on Turing complete. Under/ IT services/ Secure Reserach Environemnts/ Set up user. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/turing%20complete%20new%20user.PNG)
 
 You will need to enter their mobile number here and it may ask what envrionmnet they will be accessing. If you do not have this information yet you can leave this section blank or TBC. 
 
+2. When IT have created the account you will get an email containing a link like this... 
 
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/SH%20user%20added.PNG)
 
-Before you can add them as a user in the web app, you will need to request that they have a 
+3. Click on this link, IT will kindly put the user name of the created account in the comments - be sure to keep a record of this you will need to tell the new user that this is thier log in user name. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/user%20name.PNG)
+
+4. Once the account has been created and you have noted the new user name. You can add the new user in the Data Assessment App. Click create user, then create single user and you will be taken to this page. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/new%20web%20app%20user_LI.jpg)
+

@@ -83,11 +83,13 @@ Once your permissions have been confirmed and account created you can access the
 
 ## How to set up projects
 
-To set up a project ready for assessmnet you must set up... 
+### Pre-requisites
 
-* New user accounts for anyone who has not used the data assessment app. 
-* The new project, complete with data set information.  
-* Workpackages for each assessment.
+Before you can begin setting up a project on the web app you must there are a couple of things you will need to prepare outside of the app. 
 
+* Setting up users with accounts 
+* Obtaining a completed data sets form from the data provider
 
+### Setting up accounts for new users 
 
+Anyone who will be conducting an assessmnet will require an account. All accounts require a mobile number for MFA so you will need to obtain the mobile number of anyone who needs an account. Before you can add them as a user in the web app, you will need to request that they have a 

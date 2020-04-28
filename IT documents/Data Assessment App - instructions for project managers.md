@@ -128,9 +128,18 @@ You will need to enter their mobile number here and it may ask what envrionmnet 
 
 ## Setting up a new project 
 
+### 1. The Dataset form 
+
 In preparation for setting up a project on the web app, you must send the data owner a 'data set form' so that they can provide a brief summary of the data set/sets. You will need to enter the information about each data set into the data assessment app so that users know which data set they should be looking at when they go through the sensitivity questions. You can also find it here: 
 
 https://github.com/alan-turing-institute/Data-Study-Group-/blob/master/Challenge%20prep%20documents/Data%20Sets%20Form.pdf
 
+### 2. Adding a new project 
+
+In the web app click on project, then 'create project'. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/create%20project_LI.jpg) 
+
+You must enter the project title and a brief summary. 
 
 

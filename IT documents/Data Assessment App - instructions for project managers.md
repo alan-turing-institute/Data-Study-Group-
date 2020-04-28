@@ -81,6 +81,12 @@ When you first log in you may need to provide a phone number or an email for acc
 
 Once your permissions have been confirmed and account created you can access the web-app, open a new incognito window on your browser, and go to the following address: https://turingsafehaven.azurewebsites.net - Welcome to the Data Assessmnet App. 
 
+Your landing page should look like this...
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/Landing%20page.PNG)
+
+
+
 ## How to set up projects
 
 ### Pre-requisites

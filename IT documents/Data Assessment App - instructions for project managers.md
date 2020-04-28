@@ -125,3 +125,12 @@ You will need to enter their mobile number here and it may ask what envrionmnet 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/new%20web%20app%20user_LI.jpg)
 
+
+## Setting up a new project 
+
+In preparation for setting up a project on the web app, you must send the data owner a 'data set form' so that they can provide a brief summary of the data set/sets. You will need to enter the information about each data set into the data assessment app so that users know which data set they should be looking at when they go through the sensitivity questions. You can also find it here: 
+
+https://github.com/alan-turing-institute/Data-Study-Group-/blob/master/Challenge%20prep%20documents/Data%20Sets%20Form.pdf
+
+
+

@@ -98,4 +98,21 @@ Before you can begin setting up a project on the web app you must there are a co
 
 ### Setting up accounts for new users 
 
-Anyone who will be conducting an assessmnet will require an account. All accounts require a mobile number for MFA so you will need to obtain the mobile number of anyone who needs an account. Before you can add them as a user in the web app, you will need to request that they have a 
+Anyone who will be conducting an assessmnet will require an account. All accounts require a mobile number for MFA so you will need to obtain the mobile number of anyone who needs an account.
+
+If you are uncertain if soemone already has an account or not you can check by looking through the list of exhisting users by clicking on the 'users' button at the top of the page. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/existing%20users_LI.jpg)
+
+If they do not have an account, you will have to create one following these steps. 
+
+1. For log in details to be generated for the Data Assessment App - IT will need to create a safe haven user account for the new user. 
+You can request this on Turing complete. Under/ IT services/ Secure Reserach Environemnts/ Add user. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/turing%20complete%20new%20user.PNG)
+
+You will need to enter their mobile number here and it may ask what envrionmnet they will be accessing. If you do not have this information yet you can leave this section blank or TBC. 
+
+
+
+Before you can add them as a user in the web app, you will need to request that they have a 

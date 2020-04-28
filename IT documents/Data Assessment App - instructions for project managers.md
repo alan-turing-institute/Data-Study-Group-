@@ -148,6 +148,8 @@ Once you have clicked save, your project will appear in the main project list of
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20Project%20set%20up.PNG)
 
+### Ading project participants 
+
 You'll notice you have no participants, work packages or data assosiated with the project. First step is to add your partcipants. Go back to the add user tab, your project will now appear from the drop down list. 
 
 1[](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20user%20with%20project.PNG) 
@@ -163,6 +165,14 @@ There are a number of different roles that can be assighed to the new user...
 * Project Manager = You 
 
 * Referee = If the tier is 2 or above, a refree will be needed to assess the project, this can be any trusted Turing reseracher with sound knoledge of the tier/ safe haven model. 
+
+When participants are added they will automotically connect to the project so when you go back to the main project page you'll see the added users, you can see below the project now has a porject manager.. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20participant.PNG)
+
+
+
+
 
 
 

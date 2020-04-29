@@ -178,9 +178,14 @@ You are now ready to add you dataset to the project by clicking 'add data set'.
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/Add%20data%20set_LI.jpg)
 
-If your data provder listed more than one dataset/ more than one type in the datasets form then add them seperately here. Enter the name and description about the dataset, copying from the datasets form. Each data set must have a data provider representative. The data provider should alreday be added as a participant to the project so should be the only available option from the drop down list. 
+If your data provder listed more than one dataset/ more than one type in the datasets form then add them seperately here. Enter the name and description about the dataset, copying from the datasets form. Each data set must have a data provider representative. The data provider should alreday be linked to the project and so should be the only available option from the drop down list. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/dataset%20with%20owner.PNG)
+
+Once you have added the datasets, you can create workpackages. Don't worry if you don't know how many workpackages you will need, you can add more later. You will definatley need one for data ingress so start with that. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/add%20workpackage_LI.jpg) 
+
 
 
 

@@ -196,7 +196,9 @@ Once you work package has been created it will be visible on the main project pa
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/workpackage%20created_LI.jpg) 
 
-Your projetc has now been created complete with participants, dataset information and workpackages. 
+Your projetc has now been created complete with participants, dataset information and workpackages. You are now ready to send instructions to your data reprentatives/ PIs / referees. Please see some example instructions here: https://github.com/alan-turing-institute/Data-Study-Group-/blob/master/IT%20documents/Classification%20-%20Instructions%20for%20data%20providers%20sml.pdf
+
+Don't forget that when you invite new users to the app - you'll need to let them know what their user name is.
 
 # How to view data assessment outcomes
 
@@ -212,7 +214,7 @@ When you click 'view classification', if nobody has done the assessment the belo
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/no%20one%20done%20it.PNG) 
 
-If one actor has done the assessment but someoen elses assessment is still outstanidng, you will be able to see the first assessment on this page, as well as information about what is missing. 
+If one actor has done the assessment but another assessment is still outstanding, you will be able to see the first assessment on this page, as well as information about what is missing. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/classification%201%20answers_LI%20(2).jpg) 
 

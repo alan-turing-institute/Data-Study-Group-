@@ -12,6 +12,8 @@
 
 [How to set up projects](#how-to-set-up-projects) 
 
+[How to view data assessment outcomes](#how-to-view-data-assessment-outcomes) 
+
 ## Introduction to the Data Assessment App 
 
 The data sensitivity app is used to record a projects data sensitivty assessments to understand what safe haven sensitivity tier should be used for the project. 
@@ -195,6 +197,12 @@ Once you work package has been created it will be visible on the main project pa
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/workpackage%20created_LI.jpg) 
 
 Your projetc has now been created complete with participants, dataset information and workpackages. 
+
+# How to view data assessment outcomes
+
+When everyone who is required to do the assessment has complete the questions, the work package classification will become visible on the bottom of the workpackage page. As you can see, in this case both the PI and data representative arrived at Tier 1 classification. As they both agree and the tier is below 2 - this workpackage is now a Tier 1 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/classified%20package_LI%20(2).jpg) 
 
 
 

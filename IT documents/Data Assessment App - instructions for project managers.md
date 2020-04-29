@@ -14,6 +14,8 @@
 
 [How to view data assessment outcomes](#how-to-view-data-assessment-outcomes) 
 
+[Things to watch out for](#things-to-watch-out-for) 
+
 ## Introduction to the Data Assessment App 
 
 The data sensitivity app is used to record a projects data sensitivty assessments to understand what safe haven sensitivity tier should be used for the project. 

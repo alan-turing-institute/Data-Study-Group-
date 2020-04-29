@@ -172,11 +172,15 @@ When participants are added they will automotically connect to the project so wh
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20participant.PNG)
 
-Add the PI (Invertigator) and the Data Provider representative the same way. Remember, that at least a data provider and investigator must go through the assessment for a tier to be assighned to a work package. 
+Add the PI (Invertigator) and the Data Provider representative the same way. Remember, that at least a data provider and investigator must go through the assessment for a tier to be assighned to a work package. If your data provider or PI already has a Data Assessment app account, you can add them directly to the project by finding them under the 'Users' tab, click on the user and add them to the project. 
 
 You are now ready to add you dataset to the project by clicking 'add data set'. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/Add%20data%20set_LI.jpg)
+
+If your data provder listed more than one dataset/ more than one type in the datasets form then add them seperately here. Enter the name and description about the dataset, copying from the datasets form. Each data set must have a data provider representative. The data provider should alreday be added as a participant to the project so should be the only available option from the drop down list. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/dataset%20with%20owner.PNG)
 
 
 

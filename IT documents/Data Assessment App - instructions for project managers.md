@@ -150,7 +150,7 @@ Once you have clicked save, your project will appear in the main project list of
 
 ### Adding project participants 
 
-You'll notice you have no participants, work packages or data assosiated with the project. You can now add the new users to the Data Assessmnet App. Go back to the add user tab, your project will now appear from the drop down list. 
+You'll notice you have no participants, work packages or data assosiated with the project. You can now add the new users to the Data Assessmnet App. Go back to the add user tab, you can now add a new user as you are able to assighn them to the new poprject which will now be visable from the drop down list of projects.
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20user%20with%20project.PNG) 
 
@@ -166,13 +166,19 @@ There are a number of different roles that can be assighed to the new user...
 
 * Referee = If the tier is 2 or above, a refree will be needed to assess the project, this can be any trusted Turing reseracher with sound knoledge of the tier/ safe haven model. 
 
+
+
 When participants are added they will automotically connect to the project so when you go back to the main project page you'll see the added users, you can see below the project now has a project manager.. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20participant.PNG)
 
-Add the PI (Invertigator) and the Data Provider representative the same way. 
+Add the PI (Invertigator) and the Data Provider representative the same way. Remember, that at least a data provider and investigator must go through the assessment for a tier to be assighned to a work package. 
 
-You are now ready to add you dataset to the project. 
+You are now ready to add you dataset to the project by clicking 'add data set'. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/Add%20data%20set_LI.jpg)
+
+
 
 
 

@@ -170,6 +170,10 @@ When participants are added they will automotically connect to the project so wh
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20participant.PNG)
 
+Add the PI (Invertigator) and the Data Provider representative the same way. 
+
+You are now ready to add you dataset to the project. 
+
 
 
 

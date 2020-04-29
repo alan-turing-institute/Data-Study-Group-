@@ -186,6 +186,9 @@ Once you have added the datasets, you can create workpackages. Don't worry if yo
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/add%20workpackage_LI.jpg) 
 
+Enter the name and short description to your workpackage, as you have already added the project data sets, these will be avilale from the drop down menu so you can add any relevnat data set that needs to be assessed to the workpackage.
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/workpackage%20with%20data%20set.PNG) 
 
 
 

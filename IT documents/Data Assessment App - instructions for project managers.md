@@ -190,8 +190,11 @@ Enter the name and short description to your workpackage, as you have already ad
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/workpackage%20with%20data%20set.PNG) 
 
+Once you work package has been created it will be visible on the main project page. 
 
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/workpackage%20created_LI.jpg) 
 
+Your projetc has now been created complete with participants, dataset information and workpackages. 
 
 
 

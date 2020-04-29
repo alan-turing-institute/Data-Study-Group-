@@ -204,6 +204,18 @@ When everyone who is required to do the assessment has complete the questions, t
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/classified%20package_LI%20(2).jpg) 
 
+If someone is still required to do the workpackage assessment the 'view classification' buttom will remain on the right. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/need%20to%20assess_LI.jpg) 
+
+When you click 'view classification', if nobody has done the assessment the below page will show. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/no%20one%20done%20it.PNG) 
+
+If one actor has done the assessment but someoen elses assessment is still outstanidng, you will be able to see the first assessment on this page, as well as information about what is missing. 
+
+![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/classification%201%20answers_LI%20(2).jpg) 
+
 
 
 

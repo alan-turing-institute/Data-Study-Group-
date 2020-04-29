@@ -160,7 +160,7 @@ You'll notice you have no participants, work packages or data assosiated with th
 
 There are a number of different roles that can be assighed to the new user...
 
-* Data Provider Representative = the member of the organisation providing the data who will be conducting the assessmnet on behalf of the organisation 
+* Data Provider Representative = the member of the organisation providing the data who will be conducting the assessmnet on behalf of the organisation. They should have good understanding of the project and data sets.
 
 * Investigator = The Principal Inverstigator of the project 
 

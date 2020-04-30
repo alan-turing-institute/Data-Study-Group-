@@ -68,9 +68,9 @@ This is how the Data Assessmnet App is used for ingress/egress..
 ### Classification process for egress
 -------------------------------------
 
-* The Data Set provider reviews the contents of the environemnt (which should now contain additional files/derviced data as a result of wokr on the project) and conducts the assessment in the Data Assessment App.
+* The Data Set provider reviews the contents of the environemnt (which should now contain additional files/derviced data as a result of work on the project) and conducts the assessment in the Data Assessment App.
 * The Principal Investigator reviews the contents of the environment and conducts the assessment in the web app 
-* If the project wastier 2 or above a refree must also conduct the assessment in the web app. 
+* If the project was tier 2 or above a refree must also conduct the assessment in the web app. 
 * If the tier is 1 or 0 the contents can be removed. 
 * If the tier is 2 or above, all parties must agree what can and cannot be removed - if anything. 
 

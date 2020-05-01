@@ -22,7 +22,7 @@ The data sensitivity app is used to record a projects data sensitivty assessment
 
 The web app and the safe haven are completely seperate, the web app reveals what tier the project should be but is not connected to the safe haven or project data - its only purpose is to digitally logs assessmnets and generate a Tier for the project. Any generated tiers must be communicated to REG/IT so that they can match the environemnt used for the project to its sensitivity tier. 
 
-Data providers, PIs and in cases, a referee must all log into the web app seperately to record their assessmnet of the projetc. When all assessmnets are completed and in agreement - a tier is officially assighned to the project. Anyone doine an assessment will need to be able to access the data in question - otherwise they will be unable to answer the questions. 
+Data providers, PIs and in cases, a referee must all log into the web app seperately to record their assessmnet of the projetc. When all assessmnets are completed and in agreement - a tier is officially assighned to the project. Anyone doing an assessment will need to be able to access the data in question - otherwise they will be unable to answer the questions. 
 
 As a project manager, you must set up new users, projects and work packages within the Data Assessment App so that PIs and data providers can simply log in and see what they have been assighned to do. 
 
@@ -48,7 +48,7 @@ For a safe haven tier to be assighned, the projects data provider and PI must an
 
 ## When to use the data assessmnet app 
 
-Anytime that a project needs a safe haven, the Data Senstitivity App will be required so that the project can be assessed to find out what tier safe haven should be used. 
+Anytime a project needs a safe haven, the Data Senstitivity App will be required so that the project can be assessed to find out what tier safe haven should be used. 
 
 In most cases, at the very minium, the project/data should be assessed when it goes in to a safe haven (ingress) and before it is removed (egress). 
 
@@ -154,7 +154,7 @@ Once you have clicked save, your project will appear in the main project list of
 
 ### 3. Adding project participants 
 
-You'll notice you have no participants, work packages or data assosiated with the project. You can now add the new users to the Data Assessmnet App. Go back to the add user tab, you can now add a new user as you are able to assighn them to the new poprject which will now be visable from the drop down list of projects.
+You'll notice you have no participants, work packages or data assosiated with the project. You can now add the new users to the Data Assessmnet App. Go back to the add user tab, you can now add a new user as you are able to assighn them to the new project which will now be visable from the drop down list of projects.
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/New%20user%20with%20project.PNG) 
 
@@ -230,7 +230,7 @@ If one actor has done the assessment but another assessment is still outstanding
 
 Your PI will need to access the data differently (unless the data representative is happy to share it with them or the PI is able to phyically see the data at the source). Typically a tier 3 environement will be prepared so that data owners can transfer their data to a secure enrironmnet. The PI will then access the environement and conduct the assessment. 
 
-* **Different Tier outcomes** - In an ideal world, the data representatiev, PI and referee (if required) will all arrive at the same tier. If you can see that they disagree then a call will need to be arranged so that they can discuss their reasoning and arrive at the same tier. 
+* **Different tier outcomes** - In an ideal world, the data representatiev, PI and referee (if required) will all arrive at the same tier. If you can see that they disagree then a call will need to be arranged so that they can discuss their reasoning and arrive at the same tier. 
 
 * **Referees** - You only need a referee to review the workpackage if its has been assessed at a tier 2 or higher. You can add a referee to the workpackage at any time. 
 

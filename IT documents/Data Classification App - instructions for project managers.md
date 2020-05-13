@@ -206,7 +206,7 @@ Your project has now been created complete with participants, dataset informatio
 
 Don't forget that when you invite new users to the app - you'll need to let them know what their user name is. See step 3 in 'setting up new users'.
 
-# How to view data assessment outcomes
+# How to view data classification outcomes
 
 When everyone who is required to do the assessment has complete the questions, the work package classification will become visible on the bottom of the work package page. As you can see, in this case both the PI and data representative arrived at Tier 1 classification. As they both agree and the tier is below 2 - this work package is now a Tier 1 
 

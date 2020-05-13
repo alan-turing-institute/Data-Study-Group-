@@ -12,7 +12,7 @@
 
 [How to set up projects](#how-to-set-up-projects) 
 
-[How to view data classification outcomes](#how-to-view-data- classification -outcomes) 
+[How to view data classification outcomes](#how-to-view-data-classification-outcomes) 
 
 [Things to watch out for](#things-to-watch-out-for) 
 

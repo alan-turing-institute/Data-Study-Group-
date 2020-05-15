@@ -4,9 +4,9 @@
 
 [Introduction to the Data Classification App](#Introduction-to-the-data-classification-app) 
 
-[Background on the safe haven](#background-on-the-safe-haven)
-
 [When to use the Data Classification App](#when-to-use-the-data-classification-app) 
+
+[The Data Classification App for the safe haven](#the-data-classification-app-for-the-safe-haven)
 
 [How to access the Data Classification App](#how-to-access-the-data-classification-app) 
 
@@ -18,15 +18,28 @@
 
 ## Introduction to the Data Classification App 
 
-The Data Classification App is used to record a projects data sensitivity assessments to understand what safe haven sensitivity tier should be used for the project. 
+The Data Classification App is used to record a projects data sensitivity assessments, this assesment is needed for any all Turing projects where Turing staff or researchers access data, regardless of whether a safe haven is required or not and where the data is stored. If a safe haven enviroenmnt is required for a project then the Data Classification app can be used to understand what safe haven sensitivity tier should be used for the project. 
 
-The Data Classification App and the safe haven are completely separate, the classification app reveals what tier the project should be but is not connected to the safe haven or project data - its only purpose is to digitally logs assessments and generate a Tier for the project. Any generated tiers must be communicated to REG/IT so that they can match the environment used for the project to its sensitivity tier. 
+Data providers, PIs and in cases, a referee must all log into the Data Classification App separately to record their assessment of the project. When all assessments are completed and in agreement - a tier is officially assigned to the project. Anyone doing an assessment will need to be able to access the data in question - otherwise they will be unable to answer the questions.
 
-Data providers, PIs and in cases, a referee must all log into the Data Classification App separately to record their assessment of the project. When all assessments are completed and in agreement - a tier is officially assigned to the project. Anyone doing an assessment will need to be able to access the data in question - otherwise they will be unable to answer the questions. 
+The Data Classification App acts as a digital log of what data is being used for what projects and how sensitive the data is.
 
+If you are using the Data Classification App with a safe haven in mind, it should be noted that the safe haven and Data Classification App are completely separate, the classification app reveals what tier the project should be but is not connected to the safe haven or project data - its only purpose is to digitally logs assessments and generate a Tier for the project. Any generated tiers must be communicated to REG/IT so that they can match the environment used for the project to its sensitivity tier. 
+
+ 
 As a project manager, you must set up new users, projects and work packages within the Data Classification App so that PIs and data providers can simply log in and see what they have been assigned to do. 
 
-## Background on the safe haven 
+## When to use the Data Classification App
+
+* Any time a Turing project requries researchers to use a data set. 
+
+* Anytime a project needs a safe haven, the Data Classification App will be required so that the project can be assessed to find out what tier safe haven should be used. 
+
+## The Data Classification App for the safe haven 
+
+In most cases, at the very minimum, the project/data should be assessed when it goes in to a safe haven (ingress) and before it is removed (egress). 
+
+These different assessment stages of a project are broken down into 'work packages' in the Data Classification App. For example, for ingress a work package might be called 'project data ingress assessment' and for egress it could be 'project outputs egress'. There might be cases when a certain bit of information needs to be removed from the safe haven and not others, so you could tailor each work package to the need so that not everything has to be re- assed for example you could egress a single document from the safe haven 'Egress of report document'. ## Background on the safe haven 
 
 In case you are unfamiliar with the safe haven/ sensitivity tier model here is a quick summary. 
 
@@ -46,13 +59,6 @@ For a safe haven tier to be assigned, the projects data provider and PI must ans
 | Tier 3 | Personal data with weak or no pseudonymisation,  more sensitive commercial or government data | Access from know spaces and manged devices only, internet disabled, copy & paste function disbaled, white listed packages only |
 | Tier 4 | Very sensitive personal, commercial or government data | Access only from known dedicated secure rooms and devices, internet disabled, copy & paste function disabeled, stricter white listed packages |
 
-## When to use the Data Classification App
-
-Anytime a project needs a safe haven, the Data Classification App will be required so that the project can be assessed to find out what tier safe haven should be used. 
-
-In most cases, at the very minimum, the project/data should be assessed when it goes in to a safe haven (ingress) and before it is removed (egress). 
-
-These different assessment stages of a project are broken down into 'work packages' in the Data Classification App. For example, for ingress a work package might be called 'project data ingress assessment' and for egress it could be 'project outputs egress'. There might be cases when a certain bit of information needs to be removed from the safe haven and not others, so you could tailor each work package to the need so that not everything has to be re- assed for example you could egress a single document from the safe haven 'Egress of report document'. 
 
 This is how the Data Classification App is used for ingress/egress.. 
 

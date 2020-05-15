@@ -22,7 +22,7 @@ The Data Classification App is used to record a projects data sensitivity assess
 
 Data providers, PIs and in cases, a referee must all log into the Data Classification App separately to record their assessment of the project. When all assessments are completed and in agreement - a tier is officially assigned to the project. Anyone doing an assessment will need to be able to access the data in question - otherwise they will be unable to answer the questions.
 
-The Data Classification App acts as a digital log of what data is being used for what projects and how sensitive the data is.
+The Data Classification App acts as a digital log of what data is being used for what projects and how sensitive the data/project is.
 
 If you are using the Data Classification App with a safe haven in mind, it should be noted that the safe haven and Data Classification App are completely separate, the classification app reveals what tier the project should be but is not connected to the safe haven or project data - its only purpose is to digitally logs assessments and generate a Tier for the project. Any generated tiers must be communicated to REG/IT so that they can match the environment used for the project to its sensitivity tier. 
 
@@ -37,17 +37,13 @@ As a project manager, you must set up new users, projects and work packages with
 
 ## The Data Classification App for the safe haven 
 
-In most cases, at the very minimum, the project/data should be assessed when it goes in to a safe haven (ingress) and before it is removed (egress). 
-
-These different assessment stages of a project are broken down into 'work packages' in the Data Classification App. For example, for ingress a work package might be called 'project data ingress assessment' and for egress it could be 'project outputs egress'. There might be cases when a certain bit of information needs to be removed from the safe haven and not others, so you could tailor each work package to the need so that not everything has to be re- assed for example you could egress a single document from the safe haven 'Egress of report document'. ## Background on the safe haven 
+### Background on the safe haven 
 
 In case you are unfamiliar with the safe haven/ sensitivity tier model here is a quick summary. 
 
 Safe havens are secure research environments (SREs) used for analysis of sensitive datasets and are essential for research, giving data providers confidence that their datasets will be kept secure over the course of a project. Before the project can get started using a safe haven, the data/project must be assessent to understand its sensitivity, and how it should be handled and stored in a safe haven. 
 
 There are different sensitivity tiers, the higher the sensitivity tier the more restrictions will be in place in the environment to protect the data. The restrictions in place for each tier can slow down research so it's important to have the correct tier - so that data is secure whilst keeping restrictions to researchers minimal. Please see the table below. 
-
-For a safe haven tier to be assigned, the projects data provider and PI must answer questions about the project and data in the Data Classification App. A referee will also need to conduct the assessment if the tier outcome is 2 or above - just to be sure.
 
 ### Summary Table:
 
@@ -57,8 +53,11 @@ For a safe haven tier to be assigned, the projects data provider and PI must ans
 | Tier 1 | Data with very limited consequences if it was to be published, such as data being held back from being published for research advantage | Access from any device, copy and paste function enables, intenet enabled |
 | Tier 2 | Commercially sensitive data & strongly pseudonymised personal data | Access from any device, copy & paste function disabled, internet disabled | 
 | Tier 3 | Personal data with weak or no pseudonymisation,  more sensitive commercial or government data | Access from know spaces and manged devices only, internet disabled, copy & paste function disbaled, white listed packages only |
-| Tier 4 | Very sensitive personal, commercial or government data | Access only from known dedicated secure rooms and devices, internet disabled, copy & paste function disabeled, stricter white listed packages |
+| Tier 4 | Very sensitive personal, commercial or government data | Access only from known dedicated secure rooms and devices, internet disabled, copy & paste function disabeled, stricter white listed packages |In most cases, at the very minimum, the project/data should be assessed when it goes in to a safe haven (ingress) and before it is removed (egress). 
 
+For a safe haven tier to be assigned, the projects data provider, PI and referee must answer questions about the project and data in the Data Classification App.
+
+There is likely to be different assessment stages of a project and they are broken down into 'work packages' in the Data Classification App. For example, for data ingress a work package might be called 'project data ingress assessment' and for egress it could be 'project outputs egress'. There might be cases when a certain bit of information needs to be removed from the safe haven and not others, so you could tailor each work package to the need so that not everything has to be re- assed for example you could egress a single document from the safe haven 'Egress of report document'. ## Background on the safe haven 
 
 This is how the Data Classification App is used for ingress/egress.. 
 
@@ -94,7 +93,6 @@ Once your permissions have been confirmed and account created you can access the
 Your landing page should look like this...
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/Landing%20page.PNG)
-
 
 
 ## How to set up projects

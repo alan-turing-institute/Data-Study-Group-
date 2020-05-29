@@ -20,7 +20,7 @@
 
 ## Introduction to the Data Classification App 
 
-The Data Classification App is used to record a projects data sensitivity assessments, this assesment is needed for any all Turing projects where Turing staff or researchers access data, regardless of whether a safe haven is required or not and where the data is stored. If a safe haven enviroenmnt is required for a project then the Data Classification app can be used to understand what safe haven sensitivity tier should be used for the project. 
+The Data Classification App is used to record a projects data sensitivity, this assesment is needed for any Turing projects where Turing staff or researchers access data, regardless of whether a safe haven is required or not and where the data is stored. If a safe haven enviroenmnt is required for a project then the Data Classification app can be used to understand what safe haven sensitivity tier should be used for the project. 
 
 Data providers, PIs and in cases, a referee must all log into the Data Classification App separately to record their assessment of the project. When all assessments are completed and in agreement - a tier is officially assigned to the project. Anyone doing an assessment will need to be able to access the data in question - otherwise they will be unable to answer the questions.
 

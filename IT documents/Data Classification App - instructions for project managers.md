@@ -187,7 +187,7 @@ There are a number of different roles that can be assigned to the new user...
 
 * Project Manager = You 
 
-* Referee = If the tier is 2 or above, a referee will be needed to assess the project, this can be any trusted Turing researcher with sound knowledge of the tier/ safe haven model. 
+* Referee = An impartial referee will be needed to assess the project, this can be any trusted Turing researcher with sound knowledge of the tier/ safe haven model/ area of research. 
 
 
 

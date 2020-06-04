@@ -121,7 +121,7 @@ Before you can begin setting up a project on the Data Classification App you mus
 
 ### Setting up accounts for new users 
 
-Anyone who will be conducting an assessment will require an account. All accounts require a mobile number for MFA so you will need to obtain the mobile number of anyone who needs an account.
+Anyone who will be conducting an assessment will require an account, accounts require a mobile number for MFA so you will need to obtain the number for all assosors. 
 
 If you are uncertain if someone already has an account or not you can check by looking through the list of existing users by clicking on the 'users' button at the top of the page. 
 
@@ -134,17 +134,17 @@ You can request this on Turing complete. Under/ IT services/ Secure Research Env
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/turing%20complete%20new%20user.PNG)
 
-You will need to enter their mobile number here and it may ask what environment they will be accessing. If you do not have this information yet you can leave this section blank or TBC. 
+You will need to enter their mobile number and it may ask what environment they will be accessing, enter 'web app' here.  
 
 2. When IT have created the account you will get an email containing a link like this... 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/SH%20user%20added.PNG)
 
-3. Click on this link, IT will kindly put the user name of the created account in the comments - be sure to keep a record of this you will need to tell the new user that this is their log in user name. 
+3. Click on this link, IT will kindly put the user name of the created account in the comments - it will usually be in the form of firstname.lastname@turingsafehaven.ac.uk. This email address will become the users log in name for the Data Classiciation App so be sure to record it.
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/user%20name.PNG)
 
-4. Once the account has been created and you have noted the new user name. You can add the new user in the Data Classification App. Click create user, then create single user and you will be taken to this page. In order for a user to be created they must be assigned to a project and to a role from the drop down menu circled below - so you will have to create the project FIRST, then come back and add the users. 
+4. When IT have created the account you can add the new user in the Data Classification App. Click create user, then create single user and you will be taken to this page. In order for a user to be created they must be assigned to a project and to a role from the drop down menu circled below - so you will have to create the project FIRST, then come back and add the users. 
 
 ![](Web%20app%20instructions%20images/PM%20Data%20App%20Images/new%20web%20app%20user_LI.jpg)
 

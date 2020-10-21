@@ -12,14 +12,10 @@ Researchers brainstorm and engineer data science solutions, presenting their wor
 
 
 
-2020 Dates
+Dates
 ==========
 
-April 20th - 24th 2020 
-
-Spetemebr 14th - 18th 2020
-
-December 17th - 11th 2020 
+We usually hold the event 3 times a year; April/May, Spetemebr, December
 
 
 Key Terms 
